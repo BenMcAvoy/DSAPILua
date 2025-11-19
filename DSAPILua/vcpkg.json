@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "cpp-httplib",
+    "luajit",
+    "nlohmann-json",
+    "sol2",
+    "gzip-hpp"
+  ]
+}
